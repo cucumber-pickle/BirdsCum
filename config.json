@@ -1,0 +1,8 @@
+{
+  "auto-do-task": "true",
+  "auto-boost-speed": "true",
+  "auto-mint-worm": "true",
+  "auto-break-egg": "true",
+  "auto-upgrade-egg": "true",
+  "cycle_delay": 100
+}
