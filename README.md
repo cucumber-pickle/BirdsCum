@@ -1,6 +1,12 @@
 # Birds - Auto Claim Bot
 
-🔗 **Register**: [Birds bot](https://t.me/birdx2_bot/birdx?startapp=7494064307)
+A Python-based automation scripts that uses no API Telegram for interacting with the Birds
+
+[![Join our Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/cucumber_scripts)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cucumber-pickle/Cucumber)
+
+
+# Register: [Birds bot](https://t.me/birdx2_bot/birdx?startapp=7494064307)
 
 
 ## 🌟 Features
