@@ -8,6 +8,9 @@ A Python-based automation scripts that uses no API Telegram for interacting with
 
 # Register: [Birds bot](https://t.me/birdx2_bot/birdx?startapp=7494064307)
 
+## Updates
+**04.11.2024**
+- Auto join random guild
 
 ## 🌟 Features
 
