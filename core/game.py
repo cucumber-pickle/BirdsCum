@@ -72,6 +72,7 @@ def claim(data, proxies=None):
 
 
 def process_break_egg(data, proxies=None):
+    retries = 0
     while True:
         start_join = join(data=data, proxies=proxies)
         get_turn = turn(data=data, proxies=proxies)
